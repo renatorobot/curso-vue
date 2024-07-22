@@ -1,10 +1,11 @@
 <script setup>
 
-    import Inter from './componentes/interpolacao.vue';
+    //import Inter from './componentes/interpolacao.vue';
+    import Cond from './componentes/condicional.vue';
 
 </script>
 
 
 <template>
-    <Inter></Inter>
+    <Cond></Cond>
 </template>

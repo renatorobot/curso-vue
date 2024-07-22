@@ -1,13 +1,10 @@
 <script setup>
 
-    let nome = 'Andrade';
-    let idade = '20';
-    let num1 = 10;
-    let num2 = 5;
+    import Inter from './componentes/interpolacao.vue';
 
 </script>
 
+
 <template>
-    <p>{{ 'Olá, ' + nome + ' vc tem ' + idade + ' anos '}}</p>
-    <p>{{ num1+num2 }}</p>
+    <Inter></Inter>
 </template>

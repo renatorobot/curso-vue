@@ -5,12 +5,13 @@
     //import Laco from './componentes/laco.vue';
     //import HTML from './componentes/html.vue';
     //import MODEL from './componentes/model.vue';
-    import CLS from './componentes/classe.vue';
+    //import CLS from './componentes/classe.vue';
+    import CLIQUE from './componentes/clique.vue';
 
 
 </script>
 
 
 <template>
-    <CLS></CLS>
+    <CLIQUE></CLIQUE>
 </template>

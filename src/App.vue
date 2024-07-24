@@ -6,12 +6,13 @@
     //import HTML from './componentes/html.vue';
     //import MODEL from './componentes/model.vue';
     //import CLS from './componentes/classe.vue';
-    import CLIQUE from './componentes/clique.vue';
+    //import CLIQUE from './componentes/clique.vue';
+    import TECLADO from './componentes/teclado.vue'
 
 
 </script>
 
 
 <template>
-    <CLIQUE></CLIQUE>
+    <TECLADO></TECLADO>
 </template>
